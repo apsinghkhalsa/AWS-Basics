@@ -1,3 +1,4 @@
+# DAY-1
 # AWS-Basics
 There repo is for everyone who want to learn AWS services
 # What is cloud?
@@ -13,10 +14,10 @@ There are serveral players in the market but  AWS, Azure, Google Cloud are havin
 5. Measured services
 6. Elasticity
 # Services model in cloud
-Infrastructure as a service -- IAAS
-Platform as a service -- PAAS
-Software as a service -- SAAS
+1. Infrastructure as a service -- IAAS
+2. Platform as a service -- PAAS
+3. Software as a service -- SAAS
 # Deployment model of cloud
-Public Cloud
-Private Cloud
-Hybrid Cloud
+1. Public Cloud
+2. Private Cloud
+3. Hybrid Cloud
